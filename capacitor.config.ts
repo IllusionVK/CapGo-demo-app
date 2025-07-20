@@ -12,10 +12,13 @@ const config: CapacitorConfig = {
     SplashScreen: {
       launchAutoHide: false,
     },
-    CapacitorUpdater: {
-      autoUpdate: false,
-      // version: '11.11.1',
+    // CapacitorUpdater: {
+      // autoUpdate: true,
+      // version: '12.11.1',
       // appId: 'ee.forgr.capacitor_go',
+      // directUpdate: 'always',
+      // autoSplashscreen: true,
+      // shakeMenu: true,
       // defaultChannel: 'test-martin',
       // autoUpdate: false,
       // localSupa: 'http://0.0.0.0:54321',
